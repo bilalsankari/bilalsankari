@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Bilal 👋
 
-<!--
-**bilalsankari/bilalsankari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Automation Developer | n8n | AI Agents | CRM & Business Process Automation
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate focused on building practical AI-powered automation solutions that help businesses streamline operations, manage leads, and improve customer interactions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy connecting AI models, APIs, CRMs, and automation platforms to turn manual processes into reliable workflows.
+
+## 🚀 What I Work With
+
+- **Automation:** n8n, workflow design, webhooks
+- **AI:** OpenAI API, LLM-powered agents, prompt engineering
+- **CRM & Lead Management:** HubSpot, lead qualification, follow-up automation
+- **Development:** JavaScript, REST APIs, JSON
+- **Integrations:** Google Sheets, Telegram, Gmail
+- **Tools:** Git, GitHub, Docker
+
+## 🛠️ Featured Projects
+
+### AI-Powered Lead Management System
+An automation project designed to validate incoming leads, prevent duplicates, use AI to evaluate lead quality, and manage contact information in HubSpot.
+
+**Technologies:** n8n, OpenAI API, HubSpot, REST APIs
+
+*Status: In development*
+
+### AI Sales Agent
+An AI-powered conversational agent designed to collect customer information, qualify potential leads, confirm details, and submit qualified leads to a CRM workflow.
+
+**Technologies:** n8n, AI Agents, OpenAI, HubSpot
+
+*Status: Prototype*
+
+### AI Lead Qualification & CRM Automation
+A workflow that cleans incoming lead data, evaluates lead quality using scoring rules, and saves qualified leads to Google Sheets.
+
+**Technologies:** n8n, JavaScript, Google Sheets
+
+*Status: Built and tested*
+
+## 🎯 Current Focus
+
+- Building AI agents and automation workflows
+- CRM integrations and lead management systems
+- Working with APIs, webhooks, and business process automation
+- Developing practical automation projects for real business use cases
+
+## 🤝 Let's Connect
+
+I'm interested in **remote AI Automation Developer opportunities**, freelance projects, and collaborations.
+
+- GitHub: https://github.com/bilalsankari
